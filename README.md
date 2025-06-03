@@ -17,7 +17,7 @@ This project uses the Google PageSpeed Insights API to fetch the **Largest Conte
 
 ## 🔧 Setup
 
-1. Create a key file (JSON file) (do not upload this to GitHub):\
+1. Create a key file (JSON file) (do not upload this to GitHub):
    <pre>
    {
        "api_key": "YOUR_GOOGLE_API_KEY_HERE"
