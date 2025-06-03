@@ -1,0 +1,9 @@
+## 🛠 Requirements
+
+- Python 3.x
+- requests
+
+Install required packages:
+
+```bash
+pip install -r requirements.txt
